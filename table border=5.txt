@@ -1,29 +1,55 @@
-<table border="5">
-<thead>
-<tr>
-<th>produto</th>
-<th>quantidade</th>
-<th>preço</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Café</td>
-<td>2 unidades</td>
-<td>R$ 20,00</td>
-</tr>
-<tr> 
-<td>Pão de queijo</td>
-<td>5 unidades</td>
-<td>R$ 15,00</td>
-</tr>
-</tbody>
-<tfoot>
-<tr>
- <td colspan="2"><strong>Total</strong></td>
- <td>R$ 35,00</td
-  </tr>
-  </tfoot>
-</table>
+<hr>
+
+<h2>Histórico Acadêmico</h2>
+
+<p>
+Atualmente estou cursando o Técnico em Informática. Além deste curso,
+participo de atividades e estudos voltados para tecnologia e desenvolvimento de sistemas.
+</p>
+
+<h3>Linguagens estudadas no módulo passado</h3>
+
+<p>
+No módulo passado foram estudadas as linguagens C e JavaScript.
+</p>
+
+<ul>
+    <li>
+        <strong>C:</strong> Nível básico/intermediário. Utilizado para aprender lógica de programação,
+        estruturas de repetição, condicionais e criação de programas em console.
+    </li>
+
+    <li>
+        <strong>JavaScript:</strong> Nível básico. Utilizado para criar interatividade em páginas web,
+        realizar cálculos, validações de formulários e manipulação de elementos HTML.
+    </li>
+</ul>
+
+<h3>Linguagens estudadas neste módulo</h3>
+
+<ul>
+    <li>
+        <strong>HTML:</strong> Nível intermediário. Utilizado para estruturar páginas web,
+        criando títulos, textos, imagens, listas e formulários.
+    </li>
+
+    <li>
+        <strong>CSS:</strong> Nível básico/intermediário. Utilizado para estilizar páginas web,
+        alterando cores, fontes, espaçamentos e layouts.
+    </li>
+
+    <li>
+        <strong>C#:</strong> Nível básico. Utilizado para desenvolvimento de aplicações,
+        programação orientada a objetos e criação de sistemas.
+    </li>
+</ul>
+
+<p>
+Até o momento, possuo conhecimentos básicos e intermediários nas linguagens estudadas,
+sendo capaz de desenvolver programas simples, páginas web e pequenos sistemas.
+</p>
+
+
+
 
 
